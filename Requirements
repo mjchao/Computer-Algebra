@@ -1,0 +1,22 @@
+The goal is to create a computer algebra system capable of performing algebraic operations
+
+Algebraic Functions:
+- The program shall perform standard arithmetic, such as +, --, *, / with numbers, such as 1, 2, 3.5, -4
+- The program shall support variables
+- The program shall perform arithmetic with polynomials
+- The program shall perform arithmetic with functions, such as sin, cos, exp, sqrt
+- The program shall simplify most, if not all, expressions
+
+Display Properties:
+- The program shall be capable of displaying answers with arbitrary floating point precision
+- The program shall be capable of displaying answers in exact form
+- The program shall display answers using LaTeX
+- The program shall provide a command-line user interface, where the user enters input and output is produced (interpreter)
+
+Programming:
+- The code shall remain flexible
+- The program shall be completed by September 1, 2013
+
+
+
+

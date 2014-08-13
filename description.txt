@@ -1,0 +1,2 @@
+finished Polynomial addition and multiplication ( multiplication has a few bugs)
+Stopping work on this project for now, because June has ended.
