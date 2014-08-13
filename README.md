@@ -12,6 +12,8 @@ http://www.oracle.com
 
 Once you have Java, to run the program, download the **raw** file cas.jar and double click on it to run. You can also run it from command line by typing "java -jar cas.jar"
 
+You can also view screenshots of the program in the "photos" directory.
+
 Additional Credits
 -----
 
