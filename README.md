@@ -1,7 +1,7 @@
 Computer-Algebra
 ================
 
-Performs basic, middle-school (possibly early high-school) algebraic manipulations. For example, (x+y)^2 is evaluated as x^2 + 2xy + y^2. This program was written during June 2013. After the first week of July, I stopped development on this computer algebra program.
+Performs basic, middle-school (or possibly early high-school) algebraic manipulations. For example, (x+y)^2 is evaluated as x^2 + 2xy + y^2. This program was written during June 2013. After the first week of July, I stopped development on this computer algebra program.
 
 System Requirements
 -----
